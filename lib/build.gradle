@@ -1,0 +1,18 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+
+group='com.github.everseat'
+
+android {
+  compileSdkVersion 24
+  buildToolsVersion "24.0.1"
+
+  defaultConfig {
+    minSdkVersion 15
+    targetSdkVersion 24
+  }
+}
+
+dependencies {
+  compile 'com.android.support:appcompat-v7:24.1.1'
+}

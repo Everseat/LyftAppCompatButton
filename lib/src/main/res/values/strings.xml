@@ -1,0 +1,4 @@
+<resources>
+  <string name="lyftappcompatbutton__button_text">Get a ride</string>
+  <string name="lyftappcompatbutton__eta_label">%1$d MIN</string>
+</resources>
