@@ -20,7 +20,7 @@ allprojects {
 Then include this line in your dependencies block...
 
 ```
-compile 'com.github.everseat:LyftAppCompatButton:0.1'
+compile 'com.github.everseat:LyftAppCompatButton:0.1.1'
 ```
 
 # Usage
