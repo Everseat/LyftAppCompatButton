@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="LyftAppCompatButton" parent="ThemeOverlay.AppCompat.Dark">
+    <item name="backgroundTint">#FFFF00BF</item>
+    <item name="android:textAllCaps">false</item>
+    <item name="android:text">@string/button_lyft</item>
+    <item name="android:drawablePadding">16dp</item>
+    <item name="android:drawableLeft">@drawable/ic_lyft</item>
+    <item name="android:drawableStart">@drawable/ic_lyft</item>
+  </style>
+</resources>

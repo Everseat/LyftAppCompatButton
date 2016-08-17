@@ -1,0 +1,4 @@
+<resources>
+  <string name="button_lyft">Get a ride</string>
+  <string name="label_eta">%1$d MIN</string>
+</resources>
